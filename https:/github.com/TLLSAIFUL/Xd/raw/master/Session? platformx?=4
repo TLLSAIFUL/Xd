@@ -1,0 +1,39 @@
+{
+
+    "data": {
+
+        "session_auth_hash": "297188:4:1605094754:05f80d8d923b2230365caf797e1f3d1b9ba48376a8:4b175d20c9ea77442de1e27c42da851b104349dd05",
+
+        "username": "Wingsfan117",
+
+        "user_id": "1q0rofjd",
+
+        "traffic_used": 190671591124,
+
+        "traffic_max": -1,
+
+        "status": 1,
+
+        "email": "Wingsfan117@gmail.com",
+
+        "email_status": 1,
+
+        "billing_plan_id": 5,
+
+        "is_premium": 1,
+
+        "rebill": 0,
+
+        "premium_expiry_date": "2027-08-14",
+
+        "reg_date": 1469149217,
+
+        "last_reset": "2020-10-22",
+
+        "loc_rev": 976,
+
+        "loc_hash": "e5f676762418d081f11fa29081d44710b5a81226"
+
+    }
+
+}
